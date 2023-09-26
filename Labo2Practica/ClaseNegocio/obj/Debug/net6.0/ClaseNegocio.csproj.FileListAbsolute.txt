@@ -1,0 +1,11 @@
+C:\Users\maria\source\repos\Labo2Practica\ClaseNegocio\obj\Debug\net6.0\ClaseNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Labo2Practica\ClaseNegocio\obj\Debug\net6.0\ClaseNegocio.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Labo2Practica\ClaseNegocio\obj\Debug\net6.0\ClaseNegocio.AssemblyInfo.cs
+C:\Users\maria\source\repos\Labo2Practica\ClaseNegocio\obj\Debug\net6.0\ClaseNegocio.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Labo2Practica\ClaseNegocio\bin\Debug\net6.0\ClaseNegocio.deps.json
+C:\Users\maria\source\repos\Labo2Practica\ClaseNegocio\bin\Debug\net6.0\ClaseNegocio.dll
+C:\Users\maria\source\repos\Labo2Practica\ClaseNegocio\bin\Debug\net6.0\ClaseNegocio.pdb
+C:\Users\maria\source\repos\Labo2Practica\ClaseNegocio\obj\Debug\net6.0\ClaseNegocio.dll
+C:\Users\maria\source\repos\Labo2Practica\ClaseNegocio\obj\Debug\net6.0\refint\ClaseNegocio.dll
+C:\Users\maria\source\repos\Labo2Practica\ClaseNegocio\obj\Debug\net6.0\ClaseNegocio.pdb
+C:\Users\maria\source\repos\Labo2Practica\ClaseNegocio\obj\Debug\net6.0\ref\ClaseNegocio.dll

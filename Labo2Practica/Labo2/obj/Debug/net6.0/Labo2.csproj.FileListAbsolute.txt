@@ -1,0 +1,4 @@
+C:\Users\maria\source\repos\Labo2Practica\Labo2\obj\Debug\net6.0\Labo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Labo2Practica\Labo2\obj\Debug\net6.0\Labo2.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Labo2Practica\Labo2\obj\Debug\net6.0\Labo2.AssemblyInfo.cs
+C:\Users\maria\source\repos\Labo2Practica\Labo2\obj\Debug\net6.0\Labo2.csproj.CoreCompileInputs.cache
